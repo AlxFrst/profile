@@ -23,6 +23,8 @@ body {
   border-radius: 27px;
   margin: 20px 0px;
   text-align: center;
+  width: 700px;
+  margin: 40px auto;
 }
 
 .container {
